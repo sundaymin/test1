@@ -1,1 +1,2 @@
-aaaaaaa a가 6개~
+aaaaaaa a가 7개~
+bbbbbb b가 6개~
